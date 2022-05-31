@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2222fe&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Andressa!+%F0%9F%96%B1%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2222fe&size=30&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Andressa!+%F0%9F%96%B1%2F%3E)](https://git.io/typing-svg)
 
 
 - 🔭 Estou em transição de carreira para ser uma web Developer.
