@@ -1,11 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D22F7&center=verdadeiro&vCenter=falso&width=435&lines=Ol%C3%A1%2C+Me+chamo+%3CAndressa%2F%3E;Seja+bem-vindo(a)+aqui.)](https://git.io/typing-svg)
-
-
-- 🔭 Estou em transição de carreira para ser uma web Developer.
-- 🌱 Estudando Typescript, React.js, HTML5/CSS3, Javascript ...
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Adoro Filmes e livros.
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4D22F7&center=verdadeiro&vCenter=verdadeiro&width=455&height=60&lines=Ol%C3%A1%2C+Me+chamo+%3CAndressa%2F%3E;Seja+bem-vindo(a)+aqui.)](https://git.io/typing-svg)
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/andressaribeiroo">
