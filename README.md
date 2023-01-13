@@ -16,13 +16,6 @@ Eu sou aquela pessoa que sempre me dedico ao máximo a todos os projetos pessoai
 Acredito que através da tecnologia poderei fazer a diferença em minha vida assim como na vida de outras pessoas.
 
 ##
-
-<div align="center">
-  <a href="https://github.com/andressaribeiroo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andressaribeiroo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressaribeiroo&layout=compact&langs_count=7&theme=aura"/>
-
-</div>
  
 <div align="center"> 
  
