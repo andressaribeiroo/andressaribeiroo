@@ -18,8 +18,8 @@ Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todo
   
   ## Estatísticas 
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andressaribeiroo&count_private=true&show_icons=true&theme=midnight-purple" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressaribeiroo&layout=compact&theme=midnight-purple" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andressaribeiroo&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andressaribeiroo&layout=compact&theme=midnight-purple" />
 </div>
 <br>
  
