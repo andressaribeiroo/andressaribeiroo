@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4D22F7&center=verdadeiro&vCenter=verdadeiro&width=455&height=60&lines=Ol%C3%A1%2C+Me+chamo+%3CAndressa%2F%3E;Seja+bem-vindo(a)+aqui.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A300FF&width=650&lines=Ol%C3%A1%2C+Me+chamo+Andressa+Ribeiro+;Seja+bem-vindo(a)++ao+meu+Reposit%C3%B3rio" alt="Typing SVG" /></a>
   
 </div>
 
@@ -10,16 +10,22 @@
   
 </div>
   
-Atualmente, estou em transição para a área tech onde pretendo atuar como Desenvolvedora Júnior e construir um plano de carreira.
-Sou formada em Engenharia Civil e Dev Full Stack em formação pela @trybe.
-Eu sou aquela pessoa que sempre me dedico ao máximo a todos os projetos pessoais ou profissionais. Mesmo sendo formada em engenharia civil, não foi algo que me completou e  me satisfez profissionalmente, e a partir disso que eu decidi me dedicar a um futuro focado em tecnologia. De maneira geral, eu sempre quis escolher alguma profissão que me permitisse liberdade geográfica, ascensão de carreira e estabilidade financeira.
-Acredito que através da tecnologia poderei fazer a diferença em minha vida assim como na vida de outras pessoas.
+Atualmente, estou em transição para a área de tech, onde pretendo atuar como Desenvolvedora Júnior e construir uma carreira sólida. Sou formada em Engenharia Civil, mas decidi seguir minha paixão pela tecnologia e estou me especializando como Desenvolvedora Full Stack pela trybe, além de estar cursando Ciências da Computação. <br>
+Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais ou profissionais. Acredito que, através da tecnologia, posso contribuir para minha própria realização e para o desenvolvimento de outras pessoas."
 
-##
+<br>
+<div align="center">
+  
+  ## Estatísticas 
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andressaribeiroo&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressaribeiroo&layout=compact&theme=midnight-purple" />
+</div>
+<br>
  
 <div align="center"> 
  
- ## Tecnologias que eu aprendi 
+ ## Tecnologias 
   
 </div>
   
@@ -38,9 +44,12 @@ Acredito que através da tecnologia poderei fazer a diferença em minha vida ass
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-##
+
   
 <div align="center"> 
+  
+  ## Contatos
+  
   <a href = "mailto:andressaclecia.ribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com//in/andressaribeiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/+5581986186087" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
