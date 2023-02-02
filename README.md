@@ -18,6 +18,8 @@ Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todo
   
   ## Estatísticas 
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=andressaribeiroo&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
+  
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andressaribeiroo&count_private=true&show_icons=true&theme=midnight-purple" />
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andressaribeiroo&layout=compact&theme=midnight-purple" />
 </div>
