@@ -10,8 +10,7 @@
   
 </div>
   
-Atualmente, estou em transição para a área de tech, onde pretendo atuar como Desenvolvedora Júnior e construir uma carreira sólida. Sou formada em Engenharia Civil, mas decidi seguir minha paixão pela tecnologia e estou me especializando como Desenvolvedora Full Stack pela trybe, além de estar cursando Ciências da Computação. <br>
-Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais ou profissionais. Acredito que, através da tecnologia, posso contribuir para minha própria realização e para o desenvolvimento de outras pessoas."
+Atualmente, estou em transição para a área de tecnologia, onde atuo como Desenvolvedora. Sou formada em Engenharia Civil, mas decidi seguir minha paixão pela tecnologia e estou me especializando cada vez mais, além de estar cursando Ciências da Computação. Tenho experiência em Java, uma das linguagens de programação mais utilizadas no mercado de desenvolvimento de software. Sou uma pessoa dedicada e comprometida, sempre me esforçando ao máximo em todos os projetos pessoais ou profissionais. Acredito que, através da tecnologia, posso contribuir para minha própria realização e para o desenvolvimento de outras pessoas.
 
 <br>
 <div align="center">
